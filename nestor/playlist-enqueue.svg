@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="35.433071"
+   height="35.433071"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="playlist-enqueue.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5256">
+      <stop
+         style="stop-color:#acacac;stop-opacity:1;"
+         offset="0"
+         id="stop5258" />
+      <stop
+         style="stop-color:#acacac;stop-opacity:0.99342108;"
+         offset="1"
+         id="stop5260" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3798">
+      <stop
+         style="stop-color:#acacac;stop-opacity:1;"
+         offset="0"
+         id="stop3800" />
+      <stop
+         style="stop-color:#acacac;stop-opacity:0.68421054;"
+         offset="1"
+         id="stop3802" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.86"
+     inkscape:cx="17.716536"
+     inkscape:cy="17.716536"
+     inkscape:document-units="cm"
+     inkscape:current-layer="nestor-icon"
+     showgrid="true"
+     units="cm"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="cm"
+       spacingx="0.0125cm"
+       spacingy="0.0125cm"
+       originx="0cm"
+       originy="0cm" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="nestor-icon"
+     transform="translate(0,-1022.9527)">
+    <g
+       id="g3566">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3014"
+         d="m 4.022006,1028.2545 c -0.2454693,0 -0.4689757,0.1921 -0.4689757,0.4375 l 0,2.6562 c 0,0.2454 0.2235064,0.4688 0.4689757,0.4688 l 23.855229,0 3.908131,-3.4375 c -0.08009,-0.08 -0.189916,-0.125 -0.312651,-0.125 l -27.450709,0 z"
+         style="fill:#acacac;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3834-2"
+         d="m 31.925197,1034.4746 0,12.4015 -7.090026,-6.2007 z"
+         style="fill:#acacac;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="sssscccs"
+         inkscape:connector-curvature="0"
+         id="rect3012-9"
+         d="m 3.9768497,1038.8965 c -0.2454904,-2e-4 -0.4689756,0.2234 -0.4689756,0.4687 l 0,2.6563 c 0,0.2454 0.2234851,0.4375 0.4689756,0.4375 l 15.4956443,-0.01 -1.772506,-1.7717 1.772506,-1.7716 z"
+         style="fill:#acacac;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3014-7"
+         d="m 4.0217558,1053.084 c -0.2454692,0 -0.4689756,-0.1921 -0.4689756,-0.4375 l 0,-2.6562 c 0,-0.2454 0.2235064,-0.4688 0.4689756,-0.4688 l 23.8552292,0 3.90813,3.4375 c -0.08009,0.08 -0.189915,0.125 -0.31265,0.125 l -27.4507092,0 z"
+         style="fill:#acacac;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    </g>
+  </g>
+</svg>
