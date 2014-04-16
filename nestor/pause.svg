@@ -48,16 +48,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.86"
-     inkscape:cx="17.716536"
+     inkscape:cx="11.176728"
      inkscape:cy="17.716536"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="cm"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="28"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -85,25 +85,24 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1016.9291)">
+     id="layer6"
+     inkscape:label="Calque">
     <rect
        style="fill:#acacac;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3012"
+       id="rect3012-3"
        width="9.0743523"
        height="28.357365"
        x="22.253702"
-       y="1020.4691"
+       y="3.5400162"
        ry="0.56714308" />
     <rect
        style="fill:#acacac;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3012-4"
+       id="rect3012-4-1"
        width="9.0743504"
        height="28.357315"
        x="4.1049995"
-       y="1020.4691"
+       y="3.5400162"
        ry="0.56714308" />
   </g>
 </svg>

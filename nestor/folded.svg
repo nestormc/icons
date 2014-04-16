@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="floded.svg">
+   sodipodi:docname="folded.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -48,10 +48,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627418"
-     inkscape:cx="26.950196"
+     inkscape:cx="20.343167"
      inkscape:cy="17.806834"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer4"
      showgrid="true"
      units="cm"
      inkscape:window-width="1920"
@@ -80,18 +80,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="edit">
+     id="layer4"
+     inkscape:label="Calque">
     <path
-       style="fill:#acacac;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       style="fill:#acacac;fill-opacity:1;stroke:none"
        d="M 10.629921,10.629922 24.80315,17.716536 10.629921,24.80315 z"
-       id="path3838"
+       id="path3838-2"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

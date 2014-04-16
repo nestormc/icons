@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="more.svg">
+   sodipodi:docname="bullet.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -47,17 +47,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.279382"
-     inkscape:cx="1.6663543"
-     inkscape:cy="18.789503"
+     inkscape:zoom="22.831778"
+     inkscape:cx="11.168644"
+     inkscape:cy="17.716536"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer5"
      showgrid="true"
      units="cm"
      inkscape:window-width="1920"
-     inkscape:window-height="1021"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="28"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -81,19 +81,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1016.9291)">
+     id="layer5"
+     inkscape:label="Calque">
     <path
-       transform="translate(5.3149605,1023.5728)"
+       inkscape:connector-curvature="0"
        style="fill:#acacac;fill-opacity:1;stroke:none"
-       d="m 21.259843,11.072835 c 0,4.892286 -3.965982,8.858268 -8.858268,8.858268 -4.8922861,0 -8.8582677,-3.965982 -8.8582677,-8.858268 0,-4.8922862 3.9659816,-8.8582678 8.8582677,-8.8582678 4.892286,0 8.858268,3.9659816 8.858268,8.8582678 z"
-       id="path2998" />
+       d="m 26.574804,17.716535 c 0,4.892286 -3.965982,8.858268 -8.858269,8.858268 -4.892286,0 -8.8582672,-3.965982 -8.8582672,-8.858268 0,-4.892286 3.9659812,-8.8582679 8.8582672,-8.8582679 4.892287,0 8.858269,3.9659819 8.858269,8.8582679 z"
+       id="path2998-1" />
   </g>
 </svg>

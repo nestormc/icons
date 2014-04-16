@@ -48,16 +48,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.86"
-     inkscape:cx="17.716536"
+     inkscape:cx="11.176728"
      inkscape:cy="17.716536"
      inkscape:document-units="cm"
-     inkscape:current-layer="nestor-icon"
+     inkscape:current-layer="layer2"
      showgrid="true"
      units="cm"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="28"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -85,33 +85,32 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="nestor-icon"
-     transform="translate(0,-1016.9292)">
+     id="layer2"
+     inkscape:label="Calque">
     <rect
        style="fill:#acacac;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3010"
+       id="rect3010-8"
        width="28.346457"
        height="3.5432885"
        x="3.6080973"
-       y="1022.2336"
+       y="5.3043814"
        ry="0.4428947" />
     <path
        style="fill:#acacac;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 4.0647895,1043.4795 c -0.245372,-2e-4 -0.46875,0.2234 -0.46875,0.4687 l 0,2.6563 c 0,0.2454 0.223378,0.4375 0.46875,0.4375 l 15.4881845,-0.01 -1.771653,-1.7717 1.771653,-1.7716 z"
-       id="rect3012"
+       d="m 4.0647895,26.550299 c -0.245372,-2e-4 -0.46875,0.2234 -0.46875,0.4687 l 0,2.6563 c 0,0.2454 0.223378,0.4375 0.46875,0.4375 l 15.4881835,-0.01 -1.771653,-1.7717 1.771653,-1.7716 z"
+       id="rect3012-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssscccs" />
     <path
        style="fill:#acacac;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 4.0647895,1032.8545 c -0.245351,0 -0.46875,0.1921 -0.46875,0.4375 l 0,2.6562 c 0,0.2454 0.223399,0.4688 0.46875,0.4688 l 23.8437455,0 3.90625,-3.4375 c -0.08005,-0.08 -0.189824,-0.125 -0.3125,-0.125 l -27.4374955,0 z"
-       id="rect3014"
+       d="m 4.0647895,15.925299 c -0.245351,0 -0.46875,0.1921 -0.46875,0.4375 l 0,2.6562 c 0,0.2454 0.223399,0.4688 0.46875,0.4688 l 23.8437445,0 3.90625,-3.4375 c -0.08005,-0.08 -0.189824,-0.125 -0.3125,-0.125 l -27.4374945,0 z"
+       id="rect3014-4"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#acacac;fill-opacity:1;stroke:none"
-       d="m 31.954549,1039.0627 0,12.4015 -7.086614,-6.2007 z"
-       id="path3834-2"
+       d="m 31.954549,22.133499 0,12.4015 -7.086615,-6.2007 z"
+       id="path3834-2-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
   </g>

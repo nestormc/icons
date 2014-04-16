@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="upload.svg">
+   sodipodi:docname="fullscreen.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -48,10 +48,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.279382"
-     inkscape:cx="22.50681"
+     inkscape:cx="15.79657"
      inkscape:cy="17.953676"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="true"
      units="cm"
      inkscape:window-width="1920"
@@ -80,26 +80,25 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1016.9291)">
+     id="layer3"
+     inkscape:label="Calque">
     <path
        style="fill:#acacac;fill-opacity:1;stroke:none"
-       d="m 12.468897,1036.1348 3.758479,3.7583 -4.932819,4.9326 3.758406,3.7582 -11.5096559,0.235 0.2347143,-11.5097 3.758283,3.7584 z"
-       id="path3000"
+       d="m 12.468897,19.2057 3.758479,3.7583 -4.932819,4.9326 3.758406,3.7582 -11.5096559,0.235 0.2347143,-11.5097 3.758283,3.7584 z"
+       id="path3000-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
     <path
        sodipodi:nodetypes="cccccccc"
        inkscape:connector-curvature="0"
-       id="path3488"
-       d="m 22.963207,1033.1574 -3.758483,-3.7583 4.932752,-4.9325 -3.758356,-3.7583 11.509579,-0.235 -0.23459,11.5098 -3.758351,-3.7584 z"
+       id="path3488-9"
+       d="M 22.963207,16.2283 19.204724,12.47 24.137476,7.5375001 20.37912,3.7792001 31.888699,3.5442001 31.654109,15.054 27.895758,11.2956 z"
        style="fill:#acacac;fill-opacity:1;stroke:none" />
   </g>
 </svg>

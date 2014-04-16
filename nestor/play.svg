@@ -48,16 +48,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.86"
-     inkscape:cx="17.716536"
+     inkscape:cx="11.176728"
      inkscape:cy="17.716536"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer5"
      showgrid="true"
      units="cm"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="28"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -85,21 +85,14 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1016.9291)">
-    <g
-       id="icon"
-       inkscape:label="#icon"
-       transform="matrix(1.3278998,0,0,1.3278998,-5.8092772,-339.26165)">
-      <path
-         sodipodi:nodetypes="cccc"
-         transform="translate(0,1016.9291)"
-         inkscape:connector-curvature="0"
-         id="path3119"
-         d="m 7.0866142,6.6437011 0,22.1456689 21.2598428,-11.072834 z"
-         style="fill:#acacac;fill-opacity:1;stroke:none" />
-    </g>
+     id="layer5"
+     inkscape:label="Calque">
+    <path
+       style="fill:#acacac;fill-opacity:1;stroke:none"
+       d="m 3.6010364,3.0114001 0,29.4071999 L 31.831977,17.715 z"
+       id="path3119-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>

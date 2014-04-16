@@ -48,16 +48,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.279382"
-     inkscape:cx="23.822869"
+     inkscape:cx="17.112629"
      inkscape:cy="17.953676"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="cm"
      inkscape:window-width="1920"
-     inkscape:window-height="1021"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="28"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -85,23 +85,22 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="nestor-icon"
-     transform="translate(0,-1016.9291)">
+     id="layer1"
+     inkscape:label="Calque">
     <rect
        style="fill:#acacac;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3012"
+       id="rect3012-5"
        width="28.346457"
        height="3.5433378"
        x="-31.889763"
-       y="1043.5039"
+       y="26.574806"
        ry="0.44291055"
        transform="scale(-1,1)" />
     <path
        style="fill:#acacac;fill-opacity:1;stroke:none"
-       d="m 21.259843,1042.6181 -7.086615,0 0,-9.3011 -7.0866143,0 10.6299223,-11.0729 10.629921,11.0729 -7.086614,0 z"
-       id="path3000"
+       d="m 21.259843,25.689 -7.086615,0 0,-9.3011 -7.0866143,0 L 17.716536,5.3150001 28.346457,16.3879 l -7.086614,0 z"
+       id="path3000-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
   </g>
